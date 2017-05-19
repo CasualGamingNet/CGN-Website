@@ -1,0 +1,36 @@
+.mainheaders {
+    font-family:"coolvetica" ,sans-serif;
+    font-size: 55px;
+    text-align:center;
+    color:white;
+}
+
+html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.lefttext {
+        font-family:"coolvetica", sans-serif;
+        font-size:26px;
+        color:white;
+        text-align:bottom;
+    
+}
+
+.gameimage {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+    
+}
+
+.discord {
+    width:10%;
+    margin-left:65px;
+    
+}
