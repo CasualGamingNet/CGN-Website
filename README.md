@@ -1,2 +1,2 @@
 # CGN-Website
-A website stuff
+Website Stuffs
